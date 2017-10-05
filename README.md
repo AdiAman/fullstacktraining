@@ -1,1 +1,1 @@
-# FullStackTraining
+# fullstacktraining
